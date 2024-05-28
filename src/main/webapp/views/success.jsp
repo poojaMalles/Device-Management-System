@@ -1,0 +1,1 @@
+<h1 style=" color: green;">Device Added Succesfully !!!</h1>
